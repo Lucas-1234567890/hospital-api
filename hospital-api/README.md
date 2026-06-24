@@ -142,3 +142,14 @@ POST /api/consultas?pacienteId=1&medicoId=1
 **Pacientes:**
 - João Silva - CPF: 12345678901
 - Maria Oliveira - CPF: 98765432100
+
+---
+
+## Documentação da API (Swagger)
+
+Com a aplicação rodando, acesse:
+
+- **Interface visual:** http://localhost:8080/swagger-ui.html
+- **Especificação OpenAPI (JSON):** http://localhost:8080/api-docs
+
+O Swagger lista todos os endpoints, parâmetros, exemplos de request/response e códigos HTTP possíveis para cada operação.
