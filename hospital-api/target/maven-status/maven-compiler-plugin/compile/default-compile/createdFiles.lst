@@ -1,0 +1,16 @@
+com\hospital\api\controller\MedicoController.class
+com\hospital\api\repository\MedicoRepository.class
+com\hospital\api\repository\PacienteRepository.class
+com\hospital\api\controller\PacienteController.class
+com\hospital\api\repository\InternacaoRepository.class
+com\hospital\api\service\PacienteService.class
+com\hospital\api\entity\Consulta.class
+com\hospital\api\entity\Internacao.class
+com\hospital\api\controller\ConsultaController.class
+com\hospital\api\service\MedicoService.class
+com\hospital\api\service\ConsultaService.class
+com\hospital\api\repository\ConsultaRepository.class
+com\hospital\api\entity\Paciente.class
+com\hospital\api\entity\Medico.class
+com\hospital\api\config\DataInitializer.class
+com\hospital\api\HospitalApiApplication.class
